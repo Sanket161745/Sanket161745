@@ -1,9 +1,8 @@
 ### Hi there, I'm Sanket 👋
 
 - Primary Coding language - Python
-- I'm currently working on mastering my Data Science skills.
+- Career Goal- To develop and advance my Machine Learning skills to solve global issues effectively and efficiently.
 - I'm currently learning big Data Analytics tools.
-- 2022 Goal - To grow a career in the field of DataScience
 
 
 <p align="left">
