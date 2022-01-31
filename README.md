@@ -2,7 +2,7 @@
 
 - Primary Coding language - Python
 - Career Goal- To develop and advance my Machine Learning skills to solve global issues effectively and efficiently.
-- I'm currently learning big Data Analytics tools.
+- I'm currently learning big Data Analytics using Spark on AWS EC2 platform.
 
 
 <p align="left">
