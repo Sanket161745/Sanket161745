@@ -2,7 +2,7 @@
 
 - Primary Coding language - Python, R, MySQL
 - Career Goal- To develop and advance my Machine Learning skills to solve global issues effectively and efficiently.
-- I'm currently learning big Data Analytics using Spark.
+
 
 
 <p align="left">
