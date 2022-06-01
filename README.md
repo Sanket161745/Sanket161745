@@ -8,7 +8,7 @@
 <p align="left">
   <b><i>Let's connect! Find me on the web.</i></b>
   
- [LinkedIn](https://www.linkedin.com/in/sanketpatelrb/ / "Linkedin") &nbsp; &nbsp;
+ [LinkedIn](https://www.linkedin.com/in/sanketpatelrb/  "Linkedin") &nbsp; &nbsp;
 
 [HackerRank](https://www.hackerrank.com/sanketpatel16171/ "HackerRank") &nbsp; &nbsp;
 
